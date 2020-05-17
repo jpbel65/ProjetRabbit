@@ -186,7 +186,7 @@ class App:
 
 
 def start(kq):
-    app = App(Tk(), "hello", kq)
+    app = App(Tk(), "ProjetRabbit", kq)
     app.window.mainloop()
 
 
