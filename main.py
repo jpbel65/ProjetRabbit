@@ -1,4 +1,3 @@
-import time
 from tkinter import *
 from pafy import *
 from vlc import *
